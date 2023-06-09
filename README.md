@@ -23,7 +23,7 @@ Contributions to the FNAF2 HTML5 port are welcome! If you find any issues or hav
 
 ## License
 
-The FNAF2 HTML5 port is distributed under the [MIT License](https://github.com/ruihq/blob/main/LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+Credits to [@sussygamedeveloper](https://github.com/sussygamedeveloper) for creating this work!
 
 ## Disclaimer
 
