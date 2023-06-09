@@ -4,7 +4,7 @@ This repository contains the HTML5 port of Five Nights at Freddy's 2 (FNAF2). Th
 
 ## Play Online
 
-You can play the FNAF2 HTML5 port directly in your web browser by visiting the following link: [Play FNAF2 HTML5 Port](https://your-github-username.github.io/FNAF2-HTML5-Port/index.html)
+You can play the FNAF2 HTML5 port directly in your web browser by visiting the following link: [Play FNAF2 HTML5 Port](https://ruihq.github.io/FNAF2/index.html)
 
 ## Project Structure
 
