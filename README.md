@@ -1,5 +1,10 @@
 # FNAF2 HTML5 Port
 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ruihq/FNAF2/static.yml)
+![bwl](https://img.shields.io/badge/%F0%9F%A5%B0-Built%20With%20Love-ff69b4)
+![GitHub](https://img.shields.io/github/license/ruihq/FNAF2)
+[![PLAY NOW](https://img.shields.io/badge/%E2%96%B6%EF%B8%8F-PLAY%20NOW-blue)](https://ruihq.github.io/FNAF2/)
+
 This repository contains the HTML5 port of Five Nights at Freddy's 2 (FNAF2). The game has been adapted to run directly in web browsers using HTML5 technology.
 
 ## Play Online
